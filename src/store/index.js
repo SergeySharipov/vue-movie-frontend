@@ -1,9 +1,9 @@
 import { createStore } from 'vuex'
 
 export default createStore({
-  state() {
-    return {
-      author: "Serhii",
-    };
-  },
+    state() {
+        return {
+            author: "Serhii",
+        };
+    },
 });
